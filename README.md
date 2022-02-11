@@ -41,4 +41,4 @@ Uma das dificuldades dos desenvolvedores de jogos é encontrar uma plataforma de
 - Este projeto está sob a licença [MIT](./LICENSE).
 
 <!--Bottom session-->
-<p> Feito por Fernanda Rodrigues </p>
+<h4>Feito por Fernanda Rodrigues </h4>
